@@ -4,7 +4,8 @@
 
 [![Методология](https://img.shields.io/badge/Методология-PRIMM%20%7C%20Parson%20%7C%20TDD-blue)](https://github.com/fleytman/python_lessons)
 [![Уровни](https://img.shields.io/badge/Уровни-3%20(Beginner%20|%20Intermediate%20|%20Advanced)-green)](https://github.com/fleytman/python_lessons)
-[![Лицензия](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Лицензия](https://img.shields.io/badge/License-CC%20BY--SA%204.0-yellow.svg)](LICENSE)
+[![Created with Claude Code](https://img.shields.io/badge/Created%20with-Claude%20Code-blueviolet)](https://claude.ai/code)
 
 ---
 
@@ -197,6 +198,33 @@ sudo apt install python3 python3-pip
 4. **Назначьте менторов** — продвинутые помогают новичкам
 5. **Адаптируйте материалы** — fork и меняйте под свою группу
 
+📖 **[Полное руководство для преподавателей →](TEACHER_GUIDE.md)**
+
+Содержит:
+- Контекст курса (inVision U, Digital Literacy and AI Fundamentals)
+- Структуру 3 занятий
+- Описание методологий
+- Советы и рекомендации
+- Ответы на частые вопросы
+
+---
+
+## 🌐 Онлайн-тренажёры для самостоятельной практики
+
+### Parson Problems (собрать код из блоков):
+- [Faded Parsons - Visual](https://abav.lugaralgum.com/faded-parsons-visual/) — визуальное программирование с постепенным переходом к коду
+- [Pamela Fox's Parsons](https://pamelafox.github.io/faded-parsons-static/index.html) — статические задачи на Python
+- [Python Sponge - Parsons](https://www.pythonsponge.com/pages.html?bk=.%2Fparsons.json&chid=pseqc04) — интерактивные задачи с проверкой
+
+### Блочное программирование:
+- [Blockly Games](https://blockly.games/?lang=ru) — игры с блоками кода
+- [Code.org](https://code.org/hourofcode/overview) — час кода
+
+### Практика Python:
+- [Python Tutor](https://pythontutor.com/) — визуализация выполнения кода
+- [Codecademy](https://www.codecademy.com/learn/learn-python-3) — интерактивный курс
+- [CheckiO](https://checkio.org/) — игровые задачи
+
 ---
 
 ## 🛠️ Рекомендуемые инструменты
@@ -255,7 +283,16 @@ sudo apt install python3 python3-pip
 
 ## 📝 Лицензия
 
-Этот проект лицензирован под [MIT License](LICENSE) — можете свободно использовать для обучения и адаптировать под свои нужды.
+Этот проект лицензирован под [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](LICENSE).
+
+**Что это значит:**
+- ✅ Можете свободно использовать для обучения
+- ✅ Можете адаптировать под свои нужды
+- ✅ Можете распространять
+- ⚠️ Укажите автора (attribution)
+- ⚠️ Производные работы под той же лицензией (share-alike)
+
+Подробнее: https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 
