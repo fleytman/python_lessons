@@ -13,6 +13,24 @@
 
 ---
 
+## 📑 Оглавление
+
+- [📚 О проекте](#-о-проекте)
+- [📂 Структура репозитория](#-структура-репозитория)
+- [🎯 Выберите свой уровень](#-выберите-свой-уровень)
+- [🧪 Образовательные методологии](#-образовательные-методологии)
+- [🚀 Быстрый старт](#-быстрый-старт)
+- [💻 Установка Python](#-установка-python)
+- [📖 Как пользоваться материалами](#-как-пользоваться-материалами)
+- [🛠️ Рекомендуемые инструменты](#️-рекомендуемые-инструменты)
+- [🎓 Критерии успеха](#-критерии-успеха)
+- [📝 Лицензия](#-лицензия)
+- [⚠️ Важное уведомление](#️-важное-уведомление)
+- [📧 Контакты и поддержка](#-контакты-и-поддержка)
+- [🌟 Благодарности](#-благодарности)
+
+---
+
 ## 📚 О проекте
 
 Этот репозиторий содержит обучающие материалы по Python для студентов **всех уровней подготовки** — от полных новичков до продвинутых программистов.
@@ -29,32 +47,63 @@
 
 ## 📂 Структура репозитория
 
+<details>
+<summary>📁 Нажмите, чтобы раскрыть полную структуру репозитория</summary>
+
 ```
 python_lessons/
-├── README.md                    # Этот файл
-├── level0_beginner/             # Уровень 0: Для новичков
-│   ├── README.md                # Инструкции и установка Python
-│   ├── primm_level0.py          # PRIMM методология
-│   ├── parson_level0.py         # Parson Problems (сбор кода)
-│   ├── test_driven_level0.py    # TDD - пиши код под тесты
-│   ├── block_level0.md          # Блочное программирование
-│   └── solutions_level0.md      # Все решения с объяснениями
+├── README.md                         # Основной файл с документацией
+├── COURSES.md                        # 🌐 Подборка бесплатных курсов и тренажёров
+├── LICENSE                           # Лицензия CC BY-SA 4.0
+├── TEACHER_GUIDE.md                  # 📖 Полное руководство для преподавателей
 │
-├── level1_intermediate/         # Уровень 1: Средний уровень
-│   ├── README.md
-│   ├── primm_level1.py
-│   ├── parson_level1.py
-│   ├── test_driven_level1.py
-│   ├── block_level1.md
-│   └── solutions_level1.md
+├── level0_beginner/                  # 🟢 Уровень 0: Для новичков
+│   ├── README.md                     # Инструкции и установка Python
+│   ├── primm_level0.py               # PRIMM методология
+│   ├── parson_level0.py              # Parson Problems (сбор кода)
+│   ├── test_driven_level0.py         # TDD - пиши код под тесты
+│   ├── block_level0.md               # Блочное программирование
+│   └── solutions_level0.md           # Все решения с объяснениями
 │
-└── level2_advanced/             # Уровень 2: Продвинутый уровень
-    ├── README.md
-    ├── primm_level2.cpp
-    ├── parson_level2.js
-    ├── test_driven_level2.py
-    └── solutions_level2.md
+├── level1_intermediate/              # 🟡 Уровень 1: Средний уровень
+│   ├── README.md                     # Инструкции для Level 1
+│   ├── primm_level1.py               # PRIMM методология
+│   ├── parson_level1.py              # Parson Problems
+│   ├── test_driven_level1.py         # TDD задачи
+│   ├── block_level1.md               # Блочное программирование
+│   └── solutions_level1.md           # Решения с объяснениями
+│
+├── level2_advanced/                  # 🔴 Уровень 2: Продвинутый уровень
+│   ├── README.md                     # Инструкции для Level 2
+│   ├── primm_level2.py               # PRIMM на Python
+│   ├── primm_level2.cpp              # PRIMM на C++
+│   ├── primm_level2.js               # PRIMM на JavaScript
+│   ├── parson_level2.py              # Parson Problems
+│   ├── test_driven_level2.py         # TDD на Python
+│   ├── test_driven_level2.cpp        # TDD на C++
+│   ├── test_driven_level2.js         # TDD на JavaScript
+│   ├── olympiad_problems.py          # Олимпиадные задачи (LeetCode)
+│   ├── olympiad_problems.md          # Описание олимпиадных задач
+│   └── solutions_level2.md           # Решения с объяснениями
+│
+└── Дополнительные материалы:
+    ├── homework_all_levels.zip       # Архив со всеми заданиями
+    ├── HOMEWORK_README.md            # Инструкция для студентов
+    ├── lesson_plan_75min.md          # План занятия на 75 минут
+    ├── teacher_quick_guide.md        # Краткая шпаргалка для преподавателя
+    └── visual_programming_languages.md  # Обзор визуальных языков программирования
 ```
+
+**Основные файлы:**
+- `README.md` — главный документ с описанием проекта
+- `COURSES.md` — подборка бесплатных курсов для продолжения обучения
+- `TEACHER_GUIDE.md` — подробное руководство для преподавателей
+- `LICENSE` — лицензия Creative Commons BY-SA 4.0
+
+**Структура уровней:**
+Каждый уровень (level0/level1/level2) содержит одинаковый набор файлов по методологиям: PRIMM, Parson Problems, TDD, Blockly и файл с решениями.
+
+</details>
 
 ---
 
