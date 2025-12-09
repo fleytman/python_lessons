@@ -294,146 +294,20 @@ sudo apt install python3 python3-pip
 
 ---
 
-## 🌐 Дополнительные ресурсы для изучения Python
+## 🌐 Дополнительные ресурсы
 
-Хотите продолжить обучение? Вот подборка **бесплатных** курсов для разных уровней и языков.
+**Хотите продолжить обучение после этого репозитория?**
 
-### 🇷🇺 Русскоязычные курсы
+📚 **[COURSES.md](COURSES.md)** — подборка **бесплатных** курсов Python
 
-#### Начальный уровень (для новичков)
+Что внутри:
+- 🇷🇺 **Русскоязычные курсы** — Stepik, Яндекс Практикум, Code Basics
+- 🇰🇿 **Курсы на казахском** — YouTube, Skills Enbek
+- 🇬🇧 **Англоязычные курсы** (A2-B2) — FutureCoder, Coursera, MIT
+- 🎯 **По методикам** — PRIMM, Parson Problems, TDD, Blockly
+- 💡 **Рекомендации** — для новичков и продвинутых
 
-**Текстовые интерактивные курсы:**
-- [Code Basics — Python](https://code-basics.com/ru/languages/python) 📝 **PRIMM-подобный** — Практика в каждом уроке
-- [Яндекс Практикум — Основы Python](https://start.practicum.yandex/python-free/) 📝 20 часов, интерактивные задания
-- [Stepik — Python: основы и применение](https://stepik.org/course/512/) 📝 Биоинформатический институт
-- [Stepik — Программирование на Python](https://stepik.org/course/67/) 📝 МФТИ, подходит для школьников
-
-**Видеокурсы:**
-- [Stepik — Инди-курс программирования на Python](https://stepik.org/course/63085/) 🎥 Короткие видео + практика
-- [Python World — Самоучитель](https://pythonworld.ru/samouchitel-python) 📝 Подробные статьи с примерами
-
-**Блочное программирование (переход к Python):**
-- Scratch → Python через [CS50's Introduction to Programming with Scratch](https://cs50.harvard.edu/scratch/) (есть русские субтитры)
-
-#### Средний уровень
-
-- [Stepik — Поколение Python: курс для продвинутых](https://stepik.org/course/68343/) 📝 Углублённое изучение
-- [Stepik — ООП на Python](https://stepik.org/course/213932/) 📝 Объектно-ориентированное программирование
-- [VK Education — Базовый Python](https://education.vk.company/program/bazovyy-python) 📝 От VK, качественный материал
-
-#### Продвинутый уровень
-
-- [Stepik — Алгоритмы: теория и практика. Методы](https://stepik.org/course/217/) 📝 Computer Science Center
-- [Stepik — Python для анализа данных](https://stepik.org/course/4852/) 📝 Pandas, NumPy, Matplotlib
-
----
-
-### 🇰🇿 Курсы на казахском языке
-
-#### Начальный уровень
-
-**Видеокурсы:**
-- [Python бағдарламалау тілі (YouTube плейлист)](https://www.youtube.com/watch?v=I0PN2_rjrF8&list=PLnAyoDHHfaiXPc0MqQANzb7-fPPkRhQHR) 🎥 Полный курс на казахском
-
-**Платформы с казахским:**
-- [Skills Enbek](https://the-tech.kz/besplatnye-onlajn-kursy-po-it-i-programmirovaniyu-v-kazahstane/) 📝 Data Science и Python (казахский и русский), 72 часа, бесплатно
-
-**Примечание:** Большинство казахстанских платформ (Stepik.kz, Attractor School) используют русский язык. Для изучения на казахском рекомендуем YouTube-каналы и Coursera с казахскими субтитрами.
-
----
-
-### 🇬🇧 Англоязычные курсы (A2-B2)
-
-#### Начальный уровень (A2-B1 English)
-
-**Интерактивные с методиками:**
-- [FutureCoder](https://futurecoder.io/course/) 📝 **Очень интерактивный**, встроенная IDE, пошаговое обучение
-- [Python Sponge — Parson Problems](https://www.pythonsponge.com/) 🧩 **Parson Problems** — собирай код из блоков
-- [Runestone Academy — Python for Everybody](https://runestone.academy/ns/books/published/py4e-int/index.html) 📝 **Parson Problems + TDD**, интерактивная книга
-- [CodeHS — Python Practice](https://codehs.com/practice/python) 📝 Упражнения с автопроверкой
-- [Reeborg's World](https://reeborg.ca/index_en.html) 🤖 **Blockly → Python**, робот с визуализацией
-
-**Блочное программирование:**
-- [Blockly Games](https://blockly.games/) 🎮 **Blockly** — игры для изучения логики программирования
-- [CS50's Scratch](https://cs50.harvard.edu/scratch/) 🎨 Harvard, переход от Scratch к программированию
-- [Codecademy — Learn to Code with Blockly](https://www.codecademy.com/learn/learn-to-code-with-blockly) 📝 **Blockly**, бесплатный курс
-
-**Видеокурсы:**
-- [freeCodeCamp — Python Tutorial (YouTube)](https://www.youtube.com/watch?v=rfscVS0vtbw) 🎥 4.5 часа, подробный курс
-- [Coursera — Python for Everybody](https://www.coursera.org/specializations/python) 🎥 Dr. Charles Severance, University of Michigan (бесплатно без сертификата)
-
-#### Средний уровень (B1-B2 English)
-
-- [Codecademy — Learn Python 3](https://www.codecademy.com/learn/learn-python-3) 📝 Интерактивный, популярный курс
-- [W3Resource — Python Exercises](https://www.w3resource.com/python-exercises/) 📝 9475+ задач с решениями
-- [PYnative — Python Exercises](https://pynative.com/python-exercises-with-solutions/) 📝 320+ задач по темам
-
-#### Продвинутый уровень (B2 English)
-
-- [GitHub — 30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) 📝 30-дневный челлендж, пошаговое руководство
-- [Real Python](https://realpython.com/) 📝 Статьи и туториалы для продвинутых
-- [MIT OpenCourseWare — Introduction to Computer Science (Python)](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 🎥 MIT, академический уровень
-
----
-
-## 🎯 Специализированные ресурсы по методикам
-
-### 🧩 Parson Problems (сборка кода из перепутанных строк)
-- [Python Sponge](https://www.pythonsponge.com/) — специализированная платформа
-- [Runestone Academy](https://runestone.academy/) — встроенные Parson Problems в интерактивных книгах
-- [Pamela Fox's Parsons](https://pamelafox.github.io/faded-parsons-static/) — коллекция задач
-- [Faded Parsons Visual](https://abav.lugaralgum.com/faded-parsons-visual/) — визуальный тренажёр
-
-### 📝 PRIMM-подобные (Predict → Run → Investigate → Modify → Make)
-- [FutureCoder](https://futurecoder.io/course/) — встроенная IDE с пошаговым обучением
-- [Code Basics](https://code-basics.com/ru/languages/python) — практика после каждого урока
-- Этот репозиторий! — [python_lessons](https://github.com/fleytman/python_lessons)
-
-### 🧪 TDD (Test-Driven Development)
-- [Runestone Academy](https://runestone.academy/) — задачи с автоматическими тестами
-- [Exercism — Python Track](https://exercism.org/tracks/python) — менторство + TDD
-- [CodeWars](https://www.codewars.com/) — ката с TDD подходом
-
-### 🎨 Blockly / Block Programming
-- [Blockly Games](https://blockly.games/) — обучение через игры
-- [Reeborg's World](https://reeborg.ca/) — робот с блоками и Python
-- [Code.org](https://code.org/) — Hour of Code с блочным программированием
-- [Scratch](https://scratch.mit.edu/) — классика блочного программирования (MIT)
-
----
-
-## 💡 Рекомендации по выбору курса
-
-### Для тех, кто НЕ думает об IT:
-1. Начните с **блочного программирования**: [Blockly Games](https://blockly.games/) или [Scratch](https://scratch.mit.edu/)
-2. Переходите к **Parson Problems**: [Python Sponge](https://www.pythonsponge.com/) — просто расставляй строки!
-3. Затем попробуйте **интерактивные курсы**: [FutureCoder](https://futurecoder.io/) или [Code Basics](https://code-basics.com/ru/languages/python)
-4. **Видео на родном языке**: [Казахский курс](https://www.youtube.com/watch?v=I0PN2_rjrF8&list=PLnAyoDHHfaiXPc0MqQANzb7-fPPkRhQHR) или русские курсы на Stepik
-
-### Для тех, кто хочет углубиться:
-1. **30 Days of Python** на [GitHub](https://github.com/Asabeneh/30-Days-Of-Python) — структурированный челлендж
-2. **Алгоритмы** на [Stepik](https://stepik.org/course/217/) — Computer Science Center
-3. **LeetCode** + **Codeforces** — олимпиадное программирование
-4. **Real Python** — продвинутые статьи и best practices
-
-### По уровню английского:
-- **A2**: Начните с [Blockly](https://blockly.games/), [Reeborg](https://reeborg.ca/), [FutureCoder](https://futurecoder.io/)
-- **B1**: [Codecademy](https://www.codecademy.com/learn/learn-python-3), [Python for Everybody](https://www.coursera.org/specializations/python)
-- **B2**: [MIT OpenCourseWare](https://ocw.mit.edu/), [Real Python](https://realpython.com/), [GitHub проекты](https://github.com/topics/python-course)
-
----
-
-## 📚 Дополнительные источники
-
-**Подборки курсов:**
-- [Class Central — Best Python Courses 2025](https://www.classcentral.com/report/best-python-courses/)
-- [FreeCodeCamp — Python Resources](https://www.freecodecamp.org/news/tag/python/)
-- [GitHub — Awesome Python](https://github.com/vinta/awesome-python) — огромная коллекция ресурсов
-
-**Сообщества для вопросов:**
-- [Reddit — r/learnpython](https://www.reddit.com/r/learnpython/) — дружелюбное сообщество для новичков
-- [Stack Overflow — Python](https://stackoverflow.com/questions/tagged/python) — вопросы и ответы
-- [Telegram — Python начинающим](https://t.me/ru_python_beginners) — русскоязычное сообщество
+Все курсы тщательно отобраны для студентов с разным уровнем подготовки!
 
 ---
 
