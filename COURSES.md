@@ -126,7 +126,8 @@
 **Интерактивные с методиками:**
 - [FutureCoder](https://futurecoder.io/course/) 📝 Интерактивный курс, встроенная IDE, пошаговое обучение
 - [Python Sponge — Parson Problems](https://www.pythonsponge.com/) 🧩 **Parson Problems** — собирай код из блоков
-- [Runestone Academy — Python for Everybody](https://runestone.academy/ns/books/published/py4e-int/index.html) 📝 Интерактивная книга с упражнениями
+- [Runestone Academy — Python for Everybody](https://runestone.academy/ns/books/published/py4e-int/index.html) 📝 **Parson Problems**, интерактивная книга
+- [Runestone Academy — Python 3 (p3pt)](https://runestone.academy/ns/books/published/p3pt/index.html) 🧩 **Parson Problems** — списки, циклы, функции (~50 мин)
 - [CodeHS — Python Practice](https://codehs.com/practice/python) 📝 Упражнения с автопроверкой
 - [Reeborg's World](https://reeborg.ca/index_en.html) 🤖 **Blockly → Python**, робот с визуализацией
 
@@ -160,7 +161,8 @@
 
 ### 🧩 Parson Problems (сборка кода из перепутанных строк)
 - [Python Sponge](https://www.pythonsponge.com/) — специализированная платформа
-- [Runestone Academy](https://runestone.academy/) — встроенные Parson Problems в интерактивных книгах
+- [Runestone Academy — Python for Everybody](https://runestone.academy/ns/books/published/py4e-int/index.html) — интерактивная книга с Parson Problems
+- [Runestone Academy — Python 3 (p3pt)](https://runestone.academy/ns/books/published/p3pt/index.html) — исследовательский курс для изучения Parson Problems
 - [Pamela Fox's Parsons](https://pamelafox.github.io/faded-parsons-static/) — коллекция задач
 - [Faded Parsons Visual](https://abav.lugaralgum.com/faded-parsons-visual/) — визуальный тренажёр
 
