@@ -92,6 +92,7 @@
 
 **Платформы с казахским:**
 - [Skills Enbek](https://the-tech.kz/besplatnye-onlajn-kursy-po-it-i-programmirovaniyu-v-kazahstane/) 📝 Data Science и Python (казахский и русский), 72 часа, бесплатно
+- [Informatics.msk.ru — Python на казахском](https://informatics.msk.ru/) 🧩 **Parsons + задачи!** — Олимпиадные задачи, курсы для 6-11 классов
 
 ### Средний уровень
 
@@ -121,6 +122,7 @@
 **Видеокурсы:**
 - [freeCodeCamp — Python Tutorial (YouTube)](https://www.youtube.com/watch?v=rfscVS0vtbw) 🎥 4.5 часа, подробный курс
 - [Coursera — Python for Everybody](https://www.coursera.org/specializations/python) 🎥 Dr. Charles Severance, University of Michigan (бесплатно без сертификата)
+- [Khan Academy — Intro to CS: Python](https://www.khanacademy.org/computing/intro-to-python-fundamentals) 📝 **Новый курс 2024!** — Проекты с первого урока, веб-среда разработки
 
 ### Средний уровень (B1-B2 English)
 
@@ -130,6 +132,8 @@
 
 ### Продвинутый уровень (B2 English)
 
+- [Helsinki MOOC — Python Programming 2025](https://programming-25.mooc.fi/) 🎓 **University of Helsinki!** — 2 курса (5 ECTS каждый), интерактивный, TDD-подход
+- [OSSU — Computer Science Path (GitHub)](https://github.com/ossu/computer-science) 📚 **Полный путь CS!** — MIT, Harvard, Princeton курсы, ~2 года самообучения
 - [GitHub — 30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) 📝 30-дневный челлендж, пошаговое руководство
 - [Real Python](https://realpython.com/) 📝 Статьи и туториалы для продвинутых
 - [MIT OpenCourseWare — Introduction to Computer Science (Python)](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) 🎥 MIT, академический уровень
@@ -155,6 +159,7 @@
 - [Runestone Academy](https://runestone.academy/) — задачи с автоматическими тестами
 - [Exercism — Python Track](https://exercism.org/tracks/python) — менторство + TDD
 - [CodeWars](https://www.codewars.com/) — ката с TDD подходом
+- [Helsinki MOOC — Python Programming 2025](https://programming-25.mooc.fi/) 🎓 **Reddit рекомендует!** — University of Helsinki, 2 курса, интерактивный TDD
 
 **Средний/Продвинутый уровень (B2+ English):**
 - [Real Python — Test-Driven Development with pytest](https://realpython.com/courses/test-driven-development-pytest/) 🎥 Видеокурс от Real Python
