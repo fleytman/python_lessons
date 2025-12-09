@@ -65,7 +65,7 @@
 
 **Текстовые интерактивные курсы:**
 - [Stepik — Поколение Python: курс для начинающих](https://stepik.org/course/58852/) — 500+ задач с автопроверкой, 1 000 000+ студентов
-- [Code Basics — Python](https://code-basics.com/ru/languages/python) 📝 **PRIMM-подобный** — Практика в каждом уроке
+- [Code Basics — Python](https://code-basics.com/ru/languages/python) 📝 Теория и практика на одном экране, автопроверка задач
 - [Яндекс Практикум — Основы Python](https://start.practicum.yandex/python-free/) 📝 20 часов, создание помощника "Анфиса"
 - [Stepik — Python: основы и применение](https://stepik.org/course/512/) 📝 Биоинформатический институт
 - [Stepik — Программирование на Python](https://stepik.org/course/67/) 📝 МФТИ, подходит для школьников
@@ -105,6 +105,7 @@
 
 **Видеокурсы:**
 - [Python бағдарламалау тілі (YouTube плейлист)](https://www.youtube.com/watch?v=I0PN2_rjrF8&list=PLnAyoDHHfaiXPc0MqQANzb7-fPPkRhQHR) 🎥 Полный курс на казахском
+- [Astana Hub — Анализ данных и Python](https://astanahub.com/en/article/besplatnyi-kurs-po-analizu-dannykh-i-python-startuet-v-kazakhstane) 🎥 Бесплатный онлайн-курс для жителей Казахстана, видеоформат
 
 **Платформы с казахским:**
 - [Skills Enbek](https://the-tech.kz/besplatnye-onlajn-kursy-po-it-i-programmirovaniyu-v-kazahstane/) 📝 Data Science и Python (казахский и русский), 72 часа, бесплатно
@@ -125,7 +126,7 @@
 **Интерактивные с методиками:**
 - [FutureCoder](https://futurecoder.io/course/) 📝 Интерактивный курс, встроенная IDE, пошаговое обучение
 - [Python Sponge — Parson Problems](https://www.pythonsponge.com/) 🧩 **Parson Problems** — собирай код из блоков
-- [Runestone Academy — Python for Everybody](https://runestone.academy/ns/books/published/py4e-int/index.html) 📝 **Parson Problems + TDD**, интерактивная книга
+- [Runestone Academy — Python for Everybody](https://runestone.academy/ns/books/published/py4e-int/index.html) 📝 Интерактивная книга с упражнениями
 - [CodeHS — Python Practice](https://codehs.com/practice/python) 📝 Упражнения с автопроверкой
 - [Reeborg's World](https://reeborg.ca/index_en.html) 🤖 **Blockly → Python**, робот с визуализацией
 
@@ -147,7 +148,7 @@
 
 ### Продвинутый уровень (B2 English)
 
-- [Helsinki MOOC — Python Programming 2025](https://programming-25.mooc.fi/) 🎓 **University of Helsinki!** — 2 курса (5 ECTS каждый), интерактивный, TDD-подход
+- [Helsinki MOOC — Python Programming 2025](https://programming-25.mooc.fi/) 🎓 University of Helsinki — 2 курса (5 ECTS каждый), интерактивные упражнения
 - [OSSU — Computer Science Path (GitHub)](https://github.com/ossu/computer-science) 📚 **Полный путь CS!** — MIT, Harvard, Princeton курсы, ~2 года самообучения
 - [GitHub — 30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) 📝 30-дневный челлендж, пошаговое руководство
 - [Real Python](https://realpython.com/) 📝 Статьи и туториалы для продвинутых
@@ -174,7 +175,7 @@
 - [Runestone Academy](https://runestone.academy/) — задачи с автоматическими тестами
 - [Exercism — Python Track](https://exercism.org/tracks/python) — менторство + TDD
 - [CodeWars](https://www.codewars.com/) — ката с TDD подходом
-- [Helsinki MOOC — Python Programming 2025](https://programming-25.mooc.fi/) 🎓 **Reddit рекомендует!** — University of Helsinki, 2 курса, интерактивный TDD
+- [Helsinki MOOC — Python Programming 2025](https://programming-25.mooc.fi/) 🎓 University of Helsinki — 2 курса, интерактивные упражнения с автопроверкой
 
 **Средний/Продвинутый уровень (B2+ English):**
 - [Real Python — Test-Driven Development with pytest](https://realpython.com/courses/test-driven-development-pytest/) 🎥 Видеокурс от Real Python
