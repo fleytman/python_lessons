@@ -329,6 +329,7 @@ Python 3 обычно уже установлен.
 - [Python Tutor](https://pythontutor.com/) — визуализация выполнения кода
 - [CheckiO](https://checkio.org/) — игровые задачи
 - [Codecademy Python](https://www.codecademy.com/learn/learn-python-3) — интерактивный курс
+- [Codedex](https://www.codedex.io/) - игровой формат, для начала можно попробовать, минус только то что бесплатных уровней маловато 
 
 ---
 
