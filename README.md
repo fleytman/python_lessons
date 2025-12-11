@@ -8,6 +8,7 @@
 [![Created with Claude Code](https://img.shields.io/badge/Created%20with-Claude%20Code-blueviolet)](https://claude.ai/code)
 
 ---
+Hello world QURAL
 
 > 📚 **Закончили задания?** → Переходите к **[COURSES.md](COURSES.md)** — подборка бесплатных курсов и тренажёров Python!
 
