@@ -1,5 +1,5 @@
 # Python Lessons - Уроки программирования на Python
-
+Всем привет!!!!
 Комплексные материалы для обучения программированию с использованием проверенных образовательных методологий.
 
 [![Методология](https://img.shields.io/badge/Методология-PRIMM%20%7C%20Parson%20%7C%20TDD-blue)](https://github.com/fleytman/python_lessons)

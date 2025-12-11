@@ -30,9 +30,9 @@ print("""
 📋 ПЕРЕПУТАННЫЕ СТРОКИ:
 
 A) def say_hello():
-B)     for i in range(3):
-C)         print("Привет!")
-D)     print("Пока!")
+B)     print("Пока!")
+C)     for i in range(3):
+D)         print("Привет!")
 
 # Вызов функции:
 say_hello()
